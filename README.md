@@ -1,4 +1,4 @@
-<img align="right" height="15%" width="15%" src="https://github.com/tanjim750/Tanjim_Abubokor/blob/master/20220311_020017.png"/>
+<img align="right" height="35%" width="35%" src="https://github.com/tanjim750/Tanjim_Abubokor/blob/master/20220311_020017.png"/>
 
 ### Hei, I'm Tanjim Abubokor
 <p>I'm a Web Developer & I love to work on products that makes a quite significant positive impact on day to day lives of people.
