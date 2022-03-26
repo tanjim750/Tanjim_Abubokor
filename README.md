@@ -12,5 +12,5 @@ I have experience in both Web Designing & web development. Inadditon I also love
 - ⚡ Fun fact: I always love to learn.
 
 ## Skill
-<img src="https://github.com/tanjim750/Tanjim_Abubokor/blob/master/Screenshot_2022-03-06-19-46-35-23.jpg"/>
+<img src="https://github.com/tanjim750/Tanjim_Abubokor/blob/master/Screenshot%20from%202022-03-07%2006-49-33.png"/>
 
